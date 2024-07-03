@@ -5,7 +5,7 @@
 Este é um projeto com o intuito de estudos sobre a autmação de testes de API com a ferramenta Cypress. E também para realização de testes de perfomance com K6, se possível! 
 A API a ser testada no projeto será a Reqres que é uma aplicação pública que fornece dados de exemplo para desenvolvimento e testes.
 
-API Reqres: https://reqres.in/#support-heading
+API Reqres: https://reqres.in/
 
 ## Tecnologias Utilizadas
 

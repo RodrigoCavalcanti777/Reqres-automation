@@ -1,0 +1,15 @@
+{
+  "name": "reqres-automation",
+  "version": "1.0.0",
+  "description": "Este é um projeto com o intuito de estudos sobre a autmação de testes de API com a ferramenta Cypress. E também para realização de testes de perfomance com K6, se possível! \r A API a ser testada no projeto será a Reqres que é uma aplicação pública que fornece dados de exemplo para desenvolvimento e testes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodrigo Cavalcanti da Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
